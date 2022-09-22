@@ -7,7 +7,7 @@ admins = {}
 
 API_ID = int(getenv("API_ID", "11632645"))
 API_HASH = getenv("API_HASH", "274995c77d98520c6be79828b22b743f")
-BOT_TOKEN = getenv("BOT_TOKEN","5337470376:AAG8813dgHkeCyt639KV9Jgfo4yRZ_beVOc")
+BOT_TOKEN = getenv("BOT_TOKEN","5337470376:AAFiLxWpXJft4MGKn5lUIW_vbtYIvkjt9xQ")
 BOT_NAME = getenv("BOT_NAME","𝑴𝒖𝒔𝒊𝒄 ♪ سنوو")
 BOT_USERNAME = getenv("BOT_USERNAME", "HYJJp_bot")
 OWNER_USERNAME = getenv("OWNER_USERNAME", "BOYKA_50")
